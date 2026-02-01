@@ -8,7 +8,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 ## 🌐 Live Dashboard
 
 **Access the live dashboard at:**
-👉 **https://gaetanneo.github.io/infrastructure-status-board/**
+👉 **https://koffi95.github.io/infrastructure-status-board/**
 
 ## 📋 Features
 
@@ -23,7 +23,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 
 ### View the Dashboard
 
-Simply open: https://gaetanneo.github.io/infrastructure-status-board/
+Simply open: https://koffi95.github.io/infrastructure-status-board/
 
 ### Update System Status
 
@@ -80,7 +80,7 @@ const applications = [
 
 ```html
 <iframe 
-  src="https://gaetanneo.github.io/infrastructure-status-board/" 
+  src="https://koffi95.github.io/infrastructure-status-board/" 
   width="100%" 
   height="1400" 
   frameborder="0"
