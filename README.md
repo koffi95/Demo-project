@@ -8,7 +8,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 ## 🌐 Live Dashboard
 
 **Access the live dashboard at:**
-👉 **https://koffi95.github.io/infrastructure-status-board/**
+👉 **https://koffi95.github.io/Demo-project**
 
 ## 📋 Features
 
@@ -23,7 +23,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 
 ### View the Dashboard
 
-Simply open: https://koffi95.github.io/infrastructure-status-board/
+Simply open: https://koffi95.github.io/Demo-project
 
 ### Update System Status
 
@@ -80,7 +80,7 @@ const applications = [
 
 ```html
 <iframe 
-  src="https://koffi95.github.io/infrastructure-status-board/" 
+  src="https://koffi95.github.io/Demo-project" 
   width="100%" 
   height="1400" 
   frameborder="0"
@@ -91,7 +91,7 @@ const applications = [
 ### In Confluence:
 1. Edit your Confluence page
 2. Type `/iframe` or insert "HTML" macro
-3. Paste the URL: `https://gaetanneo.github.io/infrastructure-status-board/`
+3. Paste the URL: `https://gaetanneo.github.io/Demo-project`
 4. Set width: `100%`, height: `1400px`
 5. Publish!
 
